@@ -7,5 +7,6 @@ https://gitbookhub.com/
 Open Source Book
 
 
-https://github.com/hsliuping/TradingAgents-CN
+https://github.com/hsliuping/TradingAgents-CN 
+
 https://github.com/TauricResearch/TradingAgents
